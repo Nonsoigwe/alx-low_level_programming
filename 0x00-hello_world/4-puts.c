@@ -1,11 +1,11 @@
-#include <studio.h>
 
-int main(void)
+#include <stdio.h>    
 
-{
+int main()
+{    
 
-	      puts ("\"programming is like building a multilingual puzzle");
+	puts("programming is like building a multilingual puzzle");    
 
-	            return (0);
+	return 0;   
 
-}
+}  
