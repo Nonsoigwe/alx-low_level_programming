@@ -1,6 +1,6 @@
-#ifndef
+#ifndef NONSO_IGWE_INCLUDED
 
-#define
+#define NONSO_IGWE_INCLUDED
 
 int _putchar(char);
 
